@@ -4,4 +4,4 @@ This directory contains prebuilt version of Livecode:
 * Revolution.exe is for Windows
 * Revoltion.osx is for Mac OsX
 
-You need them to bouild Livecode.
+You need them to build Livecode.
